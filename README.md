@@ -6,7 +6,7 @@
 
 一定支持：360随身WiFi 2代 、360随身WiFiU盘版、小米随身WiFi、小度随身WiFi等基本所有采用MT7601U芯片的网卡  
 
-可能支持：采用Ralink 6570、MT7650、Ralink 6370等芯片的一些基于Ralink RT2870开发而来的网卡
+可能支持：采用Ralink 6570、MT7650、Ralink 6370等芯片以及一些基于Ralink RT2870芯片开发而来的网卡
 
 测试平台:
  
